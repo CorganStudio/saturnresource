@@ -1,0 +1,30 @@
+# SaturnResource
+
+> Domain research archive for Saturn. Literature reviews and primary-source analyses. Curated by Corgan Studio, Inc.
+
+Research Archive: https://saturnresource.net/research/ (literature reviews by Corgan Studio, Inc., open to read).
+
+## Research Archive
+
+- [Cassini legacy: ring particle dynamics and resonances](https://saturnresource.net/research/cassini-ring-dynamics): Review of the Cassini-era resolution of Saturn's ring structure - the resonances with the inner moons that shape the gap structure, the small-particle propellers, the F-ring shepherd moon dynamics, and the unresolved questions for post-Cassini analysis.
+- [Cassini's Enceladus plume in-situ chemistry and the case for habitability](https://saturnresource.net/research/enceladus-plume-chemistry): Review of Cassini in-situ measurements of the Enceladus south-polar plume, including INMS detection of molecular hydrogen, CDA characterisation of nanometric silica grains, and the resulting case for present-day hydrothermal activity in the subsurface ocean.
+- [Saturn polar hexagon and seasonal change](https://saturnresource.net/research/saturn-polar-hexagon): Review of the persistent hexagonal jet stream at Saturn's north pole, the Cassini imaging record of its evolution from 2004 to 2017, the colour change between northern winter and summer, and the proposed convective and barotropic-instability mechanisms.
+- [Saturn ring age and origin hypotheses](https://saturnresource.net/research/saturn-ring-age-origin): Review of the Cassini-era constraints on Saturn ring age - the low non-ice contamination, the high ring-rain rate, and the implied tidal-disruption origin between 10 and 200 million years ago - and the candidate parent-body and disruption-mechanism hypotheses.
+- [Titan's hydrocarbon cycle: surface lakes, atmospheric methane, and the Dragonfly mission](https://saturnresource.net/research/titan-hydrocarbon-cycle): Review of Titan's methane-driven hydrocarbon cycle as resolved by Cassini-Huygens, including the polar lakes inventory, the atmospheric source-and-sink balance, and the Dragonfly mission objectives for Selk crater investigation.
+
+## Related archives
+
+- [TerraResource Research Archive](https://terraresource.net/research/)
+- [MoonResource Research Archive](https://moonresource.com/research/)
+- [MarsResource Research Archive](https://marsresource.net/research/)
+- [SunResource Research Archive](https://sunresource.net/research/)
+- [MercuryResource Research Archive](https://mercuryresource.net/research/)
+- [VenusResource Research Archive](https://venusresource.net/research/)
+- [JupiterResource Research Archive](https://jupiterresource.net/research/)
+- [UranusResource Research Archive](https://uranusresource.net/research/)
+- [NeptuneResource Research Archive](https://neptuneresource.net/research/)
+- [PlutoResource Research Archive](https://plutoresource.net/research/)
+- [GalacticResource Research Archive](https://galacticresource.com/research/)
+- [SolarSystemResource Research Archive](https://solarsystemresource.com/research/)
+
+Sitemap: https://saturnresource.net/sitemap.xml
